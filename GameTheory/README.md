@@ -1,7 +1,3 @@
-Конечно, вот пример содержимого файла README.md на английском языке без упоминания лицензии:
-
----
-
 # CS50's Introduction to Artificial Intelligence with Python Projects
 
 Welcome to the repository for projects completed as part of the CS50’s Introduction to Artificial Intelligence with Python course!
