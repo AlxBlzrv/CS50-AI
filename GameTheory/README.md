@@ -9,8 +9,7 @@ This repository contains a collection of projects focused on various aspects of 
 1. **Tic-Tac-Toe Game with Minimax Algorithm:**
    This project implements the classic game of Tic-Tac-Toe with an AI opponent powered by the Minimax algorithm.
 
-2. [Add Your Project Name Here]
-   [Add a brief description of your project here]
+2. will be supplemented...
 
 ## Getting Started:
 
@@ -24,6 +23,3 @@ Contributions to this repository are welcome! If you have ideas for improvements
 
 CS50’s Introduction to Artificial Intelligence with Python is an online course offered by Harvard University. The course covers various topics in artificial intelligence, including search algorithms, knowledge representation, neural networks, and more. For more information about the course, visit the [official website](https://cs50.harvard.edu/ai/).
 
----
-
-Этот текст можно скопировать и вставить в новый файл README.md в вашем репозитории на GitHub. Пожалуйста, замените "[Add Your Project Name Here]" и "[Add a brief description of your project here]" соответственно названием вашего проекта и его описанием.
