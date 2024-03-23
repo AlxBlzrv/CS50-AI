@@ -11,6 +11,7 @@ This repository contains a collection of projects focused on various aspects of 
 
 2. **Minesweeper AI:**
    This project implements an AI player for the classic Minesweeper game. The AI is capable of making informed decisions based on the current state of the game board, aiming to maximize the chances of winning.
+3. *will be supplemented...*
 
 ## Getting Started:
 
