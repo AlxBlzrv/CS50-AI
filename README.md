@@ -9,7 +9,8 @@ This repository contains a collection of projects focused on various aspects of 
 1. **Tic-Tac-Toe Game with Minimax Algorithm:**
    This project implements the classic game of Tic-Tac-Toe with an AI opponent powered by the Minimax algorithm.
 
-2. will be supplemented...
+2. **Minesweeper AI:**
+   This project implements an AI player for the classic Minesweeper game. The AI is capable of making informed decisions based on the current state of the game board, aiming to maximize the chances of winning.
 
 ## Getting Started:
 
