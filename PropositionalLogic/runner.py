@@ -16,7 +16,7 @@ pygame.init()
 size = width, height = 600, 400
 screen = pygame.display.set_mode(size)
 
-OPEN_SANS = "D:/work/git/cs50-ai/Minesweeper/OpenSans-Regular.ttf"
+OPEN_SANS = "D:/work/git/cs50-ai/PropositionalLogic/OpenSans-Regular.ttf"
 small_font = pygame.font.Font(OPEN_SANS, 20)
 medium_font = pygame.font.Font(OPEN_SANS, 28)
 large_font = pygame.font.Font(OPEN_SANS, 40)
@@ -27,9 +27,9 @@ board_height = height - (BOARD_PADDING * 2)
 cell_size = int(min(board_width / WIDTH, board_height / HEIGHT))
 board_origin = (BOARD_PADDING, BOARD_PADDING)
 
-flag = pygame.image.load("D:/work/git/cs50-ai/Minesweeper/flag.png")
+flag = pygame.image.load("D:/work/git/cs50-ai/PropositionalLogic/flag.png")
 flag = pygame.transform.scale(flag, (cell_size, cell_size))
-mine = pygame.image.load("D:/work/git/cs50-ai/Minesweeper/mine.png")
+mine = pygame.image.load("D:/work/git/cs50-ai/PropositionalLogic/mine.png")
 mine = pygame.transform.scale(mine, (cell_size, cell_size))
 
 game = GameMinesweeper(height=HEIGHT, width=WIDTH, mines=MINES)
