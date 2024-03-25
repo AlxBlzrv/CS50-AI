@@ -18,4 +18,4 @@ This project implements an AI player for the classic Minesweeper game. The AI is
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/username/Minesweeper-AI.git
+git clone https://github.com/AlxBlzrv/CS50-AI.git
