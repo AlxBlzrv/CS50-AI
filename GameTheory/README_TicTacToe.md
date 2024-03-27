@@ -1,9 +1,7 @@
 # Tic-Tac-Toe Game with Minimax Algorithm
 
 Welcome to the Tic-Tac-Toe game project inspired by Harvard's CS50’s Introduction to Artificial Intelligence with Python course!
-
 ![Tic-Tac-Toe Demo](demo.gif)
-
 ## Introduction
 
 This project showcases an implementation of the classic game of Tic-Tac-Toe, utilizing the Minimax algorithm. It consists of two Python files:
@@ -34,5 +32,3 @@ This project was created by [Alexa Belozerova](https://github.com/AlxBlzrv) as a
 This project is an educational endeavor and is not licensed. Feel free to clone, modify, and share it for educational purposes.
 
 ---
-
-Feel free to adjust or expand upon this template to better suit your preferences and project details!
