@@ -45,5 +45,3 @@ Contributions to this project are welcomed! If you have ideas for improvements o
 This project is an educational endeavor and is not licensed. Feel free to clone, modify, and share it for educational purposes.
 
 ---
-
-Feel free to adjust or expand upon this template to better suit your preferences and project details!
