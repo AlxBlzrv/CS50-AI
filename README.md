@@ -13,7 +13,17 @@ This repository contains a collection of projects focused on various aspects of 
    This project implements an AI player for the classic Minesweeper game. The AI is capable of making informed decisions based on the current state of the game board, aiming to maximize the chances of winning.
 3. **Crossword Puzzle Generator:**
    This project aims to create a program for generating crossword puzzles. It involves defining the structure of the puzzle grid and providing a list of words as input. The program then fills the grid with words in such a way that they intersect correctly, resulting in a fully functional crossword puzzle. The implementation includes constraint satisfaction problem (CSP) techniques to ensure that the generated puzzle adheres to the specified constraints and is solvable. The provided code includes classes for representing variables and the crossword puzzle itself, as well as methods for enforcing node and arc consistency, solving the CSP, and generating the final crossword puzzle.
-4. *will be supplemented...*
+4. This repository contains implementations of two AI models: NIM and Shopping.
+
+   - **NIM**:
+     The NIM model implements the game of Nim, with an AI player trained using Q-learning to make optimal moves.
+
+   - **Shopping**:
+     The Shopping model predicts purchase behavior based on customer browsing data, utilizing a K-nearest neighbors classifier.
+
+5. **Traffic Sign Recognition:**
+   This project focuses on recognizing traffic signs using deep learning techniques. It includes loading image data from directories containing different types of road signs, preprocessing the data, training convolutional neural networks (CNNs), evaluating model performance, and optionally saving the trained model.
+6. *will be supplemented...*
 
 ## Getting Started:
 
