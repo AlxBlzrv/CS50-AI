@@ -23,7 +23,8 @@ This repository contains a collection of projects focused on various aspects of 
 
 5. **Traffic Sign Recognition:**
    This project focuses on recognizing traffic signs using deep learning techniques. It includes loading image data from directories containing different types of road signs, preprocessing the data, training convolutional neural networks (CNNs), evaluating model performance, and optionally saving the trained model.
-6. *will be supplemented...*
+6. **Natural Language Processing Query Processor:**
+   This project implements tools for natural language processing (NLP) tasks, including parsing sentences based on defined context-free grammars and analyzing text documents for relevance to user queries.
 
 ## Getting Started:
 
